@@ -10,3 +10,7 @@ git commit -m ""// dizer oq vc fez neste commit
 ```
 
 git merge login junta as branch, git log mostra os commits ,git switch login, git log --graph --all --oneline mostra em uma linha todos os commits, git branch -d {se não for use -D }login (apagar uma branch)
+
+## 2- Depois que fizer as primeiras linhas  sempre faça uma nova brach 
+
+Vamos imaginar o seguinte
