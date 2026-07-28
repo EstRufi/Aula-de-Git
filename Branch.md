@@ -21,6 +21,8 @@ git switch -c nome-da-branch
 // Caso o switch não funcione utilize
 git checkout nome-da-brench
 
+// Criar um novo pelo modo de cima
+git checkout -b nome-da-brench
 // vc pode ver quantos commits já realizou
 git log
 
