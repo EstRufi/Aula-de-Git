@@ -18,6 +18,9 @@ Vamos imaginar o seguinte vc fez uma pagina inteira e entrego para seu cliente, 
 // Além de criar uma branch ele já troca a branch que vc está
 git switch -c nome-da-branch
 
+// Caso o switch não funcione utilize
+git checkout nome-da-brench
+
 // vc pode ver quantos commits já realizou
 git log
 
