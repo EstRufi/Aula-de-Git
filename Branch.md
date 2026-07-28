@@ -55,10 +55,14 @@ git push --set-upstream origin nome-da-brench
 
 // Se preferir vc pode dar git push NA BRENCH QUE NÃO É A PRINCIPAL
 // Para poder ver esse código acima para poder copiar
+
 ```
 
 Agora vamos dizer que já terminou oq tinha que fazer, ja juntou as branch e apagou localmente sua branch. Porém no GitHub ainda está lá a brench como vc pode apagar?
 
 ```JavaScript
 git push origin --delete nome-da-branch
+
+// para puxar a brench feita no GitHub
+git pull origin <nome-da-branch>
 ```
